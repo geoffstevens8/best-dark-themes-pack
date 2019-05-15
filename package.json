@@ -15,6 +15,15 @@
     },
     "icon": "icon.png",
     "extensionPack": [ 
-        "zhuangtongfa.Material-theme"
+        "zhuangtongfa.Material-theme", 
+        "dracula-theme.theme-dracula", 
+        "arcticicestudio.nord-visual-studio-code", 
+        "whizkydee.material-palenight-theme", 
+        "azemoh.one-monokai", 
+        "sdras.night-owl", 
+        "EliverLara.andromeda", 
+        "rokoroku.vscode-theme-darcula", 
+        "jolaleye.horizon-theme-vscode", 
+        "wesbos.theme-cobalt2"
     ]
 }
