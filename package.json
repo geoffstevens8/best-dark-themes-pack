@@ -1,0 +1,20 @@
+{
+    "name": "best-dark-themes-pack",
+    "displayName": "Best Dark Themes Pack",
+    "description": "Ultimate set of only dark themes",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/geoffstevens8/best-dark-themes-pack"
+    },
+    "icon": "icon.png",
+    "extensionPack": [ 
+        "zhuangtongfa.Material-theme"
+    ]
+}
