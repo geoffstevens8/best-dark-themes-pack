@@ -1,3 +1,9 @@
+<br/>
+<div align="center">
+  <img width="150px" src="https://raw.githubusercontent.com/geoffstevens8/best-dark-themes-pack/master/logo.png?token=AC64BAUYBDODIDOKDKW4NHK43SZ4U">
+</div>
+<br/>
+
 # Best Dark Themes Pack
 
 The best dark themes for Visual Studio Code are now available as a single package, so you don't have to install them individually. 
