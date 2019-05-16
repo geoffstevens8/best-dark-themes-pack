@@ -1,8 +1,4 @@
-<br/>
-<div align="center">
-  <img width="150px" src="https://raw.githubusercontent.com/geoffstevens8/best-dark-themes-pack/master/logo.png?token=AC64BAUYBDODIDOKDKW4NHK43SZ4U">
-</div>
-<br/>
+![Banner](banner.png)
 
 # Best Dark Themes Pack
 
