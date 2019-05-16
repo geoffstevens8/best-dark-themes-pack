@@ -1,8 +1,8 @@
 {
     "name": "best-dark-themes-pack",
     "displayName": "Best Dark Themes Pack",
-    "description": "Ultimate set of only dark themes",
-    "version": "0.0.1",
+    "description": "Ultimate pack of dark themes",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.33.0"
     },

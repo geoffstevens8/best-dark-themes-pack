@@ -15,7 +15,7 @@ The pack includes:
 * [Horizon Theme](https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode)
 * [Cobalt2](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2)
 
-## Why should I use these themes? 
+## Theme Breakdown 
 
 ### One Dark Pro
 
