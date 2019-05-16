@@ -131,7 +131,7 @@ Horizon is a beautifully warm dark theme that refuses to sacrifice friendliness 
 [![](https://vsmarketplacebadge.apphb.com/installs-short/wesbos.theme-cobalt2.svg)](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2) 
 [![](https://vsmarketplacebadge.apphb.com/rating-short/wesbos.theme-cobalt2.svg)](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2)
 
-Cobalt2 delicately layers eye-catching colors onto a steel background for a carefully crafted fluorescenct aura. 
+Cobalt2 delicately layers eye-catching colors onto a steel background for a carefully crafted fluorescent aura. 
 
 <p align="center" style="margin: 0 10%">
   <img src="https://raw.githubusercontent.com/wesbos/cobalt2-vscode/cobalt2-updates/images/ss.png" alt="Cobalt2 for VS Code" />
