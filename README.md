@@ -2,9 +2,11 @@
 
 # Best Dark Themes Pack
 
-The best dark themes for Visual Studio Code are now available as a single package, so you don't have to install them individually. 
+The best dark themes for Visual Studio Code are now available as a single package, so you don't have to manually install them one by one. 
 
-The pack includes: 
+I love building tools that make developers happy. You should also check out another extension I am contributing to called [Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode). 
+
+The dark themes pack includes: 
 
 * [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
 * [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
