@@ -4,9 +4,11 @@
 
 The best dark themes for Visual Studio Code are now available as a single package, so you don't have to manually install them one by one. 
 
-I love building tools that make developers happy. You should also check out another extension I am contributing to called [Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode). 
+I love building tools that make developers happy. If you like this extension pack, you should also check out my other projects: 
+* [Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode): VS Code extension for automatic programming metrics and time-tracking, right in your editor
+* [SRC](https://www.software.com/src): a strategic summary of the developer world in ten minutes or less—once a week, right to your inbox
 
-The dark themes pack includes: 
+The **Best Dark Themes Pack** includes: 
 
 * [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
 * [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
@@ -30,7 +32,7 @@ The dark themes pack includes:
 Combining a soft background with vibrant colors, One Dark Pro will add a dash of understated pizzazz to your editor. One Dark Pro is a sleek port of Atom's iconic One Dark theme. 
 
 <p align="center" style="margin: 0 10%">
-  <img src="https://camo.githubusercontent.com/48f39d862900e54913410490e566a9e761bc5ad5/68747470733a2f2f7773332e73696e61696d672e636e2f6c617267652f303036744e6252776779316676776b7236693139396a33316b7731366f7461742e6a7067" alt="One Dark Pro for VS Code" />
+  <img src="https://raw.githubusercontent.com/Binaryify/OneDark-Pro/master/static/screenshot2.png" alt="One Dark Pro for VS Code" />
 </p>
 
 ### Dracula Official
@@ -42,7 +44,7 @@ Combining a soft background with vibrant colors, One Dark Pro will add a dash of
 A colorful palette submersed in a dark world, Dracula packs vibrant colors into a perfectly tinted backdrop.
 
 <p align="center" style="margin: 0 10%">
-  <img src="https://draculatheme.com/assets/img/screenshots/vscode.png" alt="Dracula Official for VS Code" />
+  <img src="https://github.com/dracula/visual-studio-code/raw/master/screenshot.png" alt="Dracula Official for VS Code" />
 </p>
 
 ### Nord
@@ -54,7 +56,7 @@ A colorful palette submersed in a dark world, Dracula packs vibrant colors into 
 Nord is an arctic, north-bluish clean and elegant theme designed for a fluent and clear workflow.
 
 <p align="center" style="margin: 0 10%">
-  <img src="https://raw.githubusercontent.com/arcticicestudio/nord-visual-studio-code/develop/assets/scrot-preview.png" alt="Nord for VS Code" />
+  <img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/ports/visual-studio-code/ui-overview-jsx.png" alt="Nord for VS Code" />
 </p>
 
 ### Palenight

@@ -16,3 +16,7 @@ All notable changes to the extension pack will be documented in this file.
 * Added theme [Darcula](https://marketplace.visualstudio.com/items?itemName=rokoroku.vscode-theme-darcula)
 * Added theme [Horizon Theme](https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode)
 * Added theme [Cobalt2](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2)
+
+## [1.0.1] - 2020-1-6
+### Added
+* Updated README with new information
