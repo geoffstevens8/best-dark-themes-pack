@@ -1,8 +1,13 @@
 # Change Log
 All notable changes to the extension pack will be documented in this file.
 
-## [Unreleased]
-- Initial release
+## [1.0.2] - 2020-7-13
+### Added
+* Updated README with new information
+
+## [1.0.1] - 2020-1-6
+### Added
+* Updated README with new information
 
 ## [1.0.0] - 2019-5-15
 ### Added
@@ -17,6 +22,5 @@ All notable changes to the extension pack will be documented in this file.
 * Added theme [Horizon Theme](https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode)
 * Added theme [Cobalt2](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2)
 
-## [1.0.1] - 2020-1-6
-### Added
-* Updated README with new information
+## [Unreleased]
+- Initial release

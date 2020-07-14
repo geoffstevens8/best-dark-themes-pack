@@ -1,12 +1,27 @@
-![Banner](banner.png)
+![Best Dark Themes for VS Code](assets/best-dark-themes-pack.png)
+
+<p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=thegeoffstevens.best-dark-themes-pack">
+    <img alt="Marketplace" src="https://vsmarketplacebadge.apphb.com/version-short/thegeoffstevens.best-dark-themes-pack.svg?style=for-the-badge&label=Marketplace&color=473760"></a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=thegeoffstevens.best-dark-themes-pack">
+    <img alt="Installs" src="https://vsmarketplacebadge.apphb.com/installs-short/thegeoffstevens.best-dark-themes-pack.svg?style=for-the-badge&color=473760"></a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=thegeoffstevens.best-dark-themes-pack">
+    <img alt="Rating" src="https://vsmarketplacebadge.apphb.com/rating-short/thegeoffstevens.best-dark-themes-pack.svg?style=for-the-badge&color=473760"></a>
+</p>
+
+<p align="center">Get the best dark themes for Visual Studio Code, curated by the team at <a href="https://www.software.com/">Software</a>.  
+</p>
+
+<br />
 
 # Best Dark Themes Pack
 
 The best dark themes for Visual Studio Code are now available as a single package, so you don't have to manually install them one by one. 
 
 I love building tools that make developers happy. If you like this extension pack, you should also check out my other projects: 
-* [Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode): VS Code extension for automatic programming metrics and time-tracking, right in your editor
-* [SRC](https://www.software.com/src): a strategic summary of the developer world in ten minutes or less—once a week, right to your inbox
+* [Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode): automatic programming metrics and time tracking, right in your editor.
+* [Music Time](https://www.software.com/music-time): discover your most productive music to listen to while you code.
+* [Source](https://www.software.com/src/newsletter): your secret weapon to stay up to date in the fast-paced world of software development—once a week, right to your inbox. 
 
 The **Best Dark Themes Pack** includes: 
 
