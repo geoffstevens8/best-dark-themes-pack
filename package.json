@@ -14,7 +14,7 @@
         "type": "git",
         "url": "https://github.com/geoffstevens8/best-dark-themes-pack"
     },
-    "icon": "/assets/icon.png",
+    "icon": "assets/icon.png",
     "extensionPack": [ 
         "zhuangtongfa.Material-theme", 
         "dracula-theme.theme-dracula", 
